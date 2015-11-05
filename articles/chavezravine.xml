@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Chavez Ravine:From a Home to Home Plate</title>
-            <author>Stephanie Gao</author>
-            <author>Lucia Zezza</author>
-            <author> Justina Sotelo</author>
+            <author>S. Gao</author>
+            <author>L. Zezza</author>
+            <author> J. Sotelo</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
@@ -40,14 +40,14 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="arts">Chavez Ravine, Los Angeles</placeName>
+            <geo>-118.238298, 34.080965</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>In 1959 in a hilly alcove known as Chavez Ravine, the construction of today’s Los Angeles landmark, Dodger Stadium, began.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
+               <bibl>CITATION 1</bibl>
                <bibl>Citation 2...</bibl>
             </listBibl>
          </div>
